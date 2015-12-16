@@ -5,3 +5,6 @@
 ##  Development
   PHP >= 5.4 | Laravel 
   AngularJS
+
+##  Development
+  Development updates coming soon -- Check out the sample here: http://ubersnip.com/music-store/public/index.php
